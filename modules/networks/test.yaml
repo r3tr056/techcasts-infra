@@ -1,0 +1,7 @@
+
+apiVersion: blueprints.cloud.google.com/v1alpha1
+kind: BlueprintTest
+metadata:
+  name: dns_managed_zone_private_forwarding
+spec:
+  skip: true
